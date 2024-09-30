@@ -49,6 +49,25 @@ Teams allow you to pull Agents from different Departments and organize them to h
 ![admin_agents_teams](https://github.com/user-attachments/assets/a77f9e32-f265-4d25-9705-4cd4135e0a0e)
 𝐀𝐝𝐦𝐢𝐧 𝐏𝐚𝐧𝐞𝐥 > 𝐀𝐠𝐞𝐧𝐭𝐬 > 𝐓𝐞𝐚𝐦𝐬
 
+𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐀𝐠𝐞𝐧𝐭𝐬
+Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
+![admin_agents_agents](https://github.com/user-attachments/assets/e588d689-563d-49a0-8fbf-d10311a0bdb3)
+𝐀𝐝𝐦𝐢𝐧 𝐏𝐚𝐧𝐞𝐥 > 𝐀𝐠𝐞𝐧𝐭𝐬 > 𝐀𝐠𝐞𝐧𝐭𝐬
+
+𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐔𝐬𝐞𝐫 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲
+Users can now create an account and log-in to create a ticket or check a ticket’s status. As always with osTicket, users or ticket creators are associated with their email address as the unique identifier of each user. The User Directory, located on the Agent Panel, allows agents to search tickets by user as well as create Organizations to associate the user to. Agents can be configured as internal Account Managers for tickets created by users of an Organization.
+<img width="960" alt="agent_users_userDir_dir" src="https://github.com/user-attachments/assets/58dda87d-80a8-43c3-99b6-51cc2b81498e">
+𝐀𝐠𝐞𝐧𝐭 𝐏𝐚𝐧𝐞𝐥 > 𝐔𝐬𝐞𝐫𝐬 > 𝐔𝐬𝐞𝐫 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲
+
+𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐒𝐋𝐀
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
+SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click on the top right of the table to “Add New SLA Plan.”
+𝐀𝐝𝐦𝐢𝐧 𝐏𝐚𝐧𝐞𝐥 > 𝐌𝐚𝐧𝐚𝐠𝐞 > 𝐒𝐋𝐀 (𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐋𝐞𝐯𝐞𝐥 𝐀𝐠𝐫𝐞𝐞𝐦𝐞𝐧𝐭𝐬)
+
+𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐇𝐞𝐥𝐩 𝐓𝐨𝐩𝐢𝐜𝐬
+![admin_manage_ht_htInfo (1)](https://github.com/user-attachments/assets/17c4b15a-62bb-4c76-ae36-944e552b9cfb)
+
+
 
 
 
